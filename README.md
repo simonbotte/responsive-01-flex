@@ -31,7 +31,7 @@ Le but de l'exercice est de reproduire une célèbre carte à jouer en utilisant
 
 Résultat approximatif à cette étape :
 
-![](assets/models/html.png)
+![](src/assets/models/html.png)
 
 Attention à vérifier la présence de la balise _meta viewport_ pour un bon dimensionnement sur mobile !
 
