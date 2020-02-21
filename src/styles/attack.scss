@@ -1,0 +1,23 @@
+.attack {
+  margin: 65px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .attack__cost {
+    display: flex;
+    img {
+      padding: 2px;
+    }
+  }
+  .attack__desc {
+    max-width: 70%;
+    font-size: 0.8rem;
+  }
+  .attack_name {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  .attack__damage {
+    font-size: 1.1rem;
+  }
+}

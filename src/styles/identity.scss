@@ -1,0 +1,16 @@
+.identity {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  .identity__evolution {
+    font-size: 0.4rem;
+  }
+  .identity__name {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .identity__hp {
+    color: red;
+    font-size: 1.3rem;
+  }
+}
