@@ -9,7 +9,7 @@ Pour se familiariser avec les différentes propriétés :
 
 Le but de l'exercice est de reproduire une célèbre carte à jouer en utilisant les propriétés flexbox. Voici le modèle :
 
-<img src="assets/models/card.jpg" width="300px">
+<img src="src/assets/models/card.jpg" width="300px">
 
 ### Étape 0 : Configuration VSCode
 
@@ -76,7 +76,7 @@ Propriétés "interdites" pour cet exercice :
 
 Votre but est maintenant de reproduire la carte sur un écran de type iPhone5 (320\*568). Il vous appartient de pousser la ressemblance avec l'original au maximum, mais voici un exemple :
 
-![](assets/models/portrait.png)
+![](src/assets/models/portrait.png)
 
 - En accord avec la convention BEM :
   - Utilisez quasiment exclusivement des sélecteurs de classe
@@ -113,7 +113,7 @@ Cela permet d'inclure les variations au plus proche du sélecteur de base, au li
 
 Voici le nouvel objectif à atteindre :
 
-![](assets/models/landscape.png)
+![](src/assets/models/landscape.png)
 
 - Solliciter une vérification de ma part ou attendre la correction
 - `git commit` pour finir
