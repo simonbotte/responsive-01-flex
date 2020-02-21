@@ -1,5 +1,9 @@
 $gradient: linear-gradient(45deg, rgb(251, 233, 0), rgb(122, 117, 28));
-
+@mixin landscape {
+  @media (min-aspect-ratio: 1/1) {
+    @content;
+  }
+}
 @import "reset.scss";
 @import "details.scss";
 @import "stats.scss";
